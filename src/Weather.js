@@ -63,6 +63,16 @@ export default function Weather() {
           </ul>
         </div>
       </div>
+      <small>
+        <a
+          href="https://github.com/TaSaCoding/weather-app-react.git"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Open-source code
+        </a>
+        , by <a href="https://tsd-portfolio.netlify.app/">Tanja Sauer</a>
+      </small>
     </div>
   );
 }
